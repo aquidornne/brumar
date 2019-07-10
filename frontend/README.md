@@ -10,6 +10,6 @@ npm install
 npm run serve
 ```
 
-### Gerar buld produção
+### Gerar build produção
 ```
 npm run build
