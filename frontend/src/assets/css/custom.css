@@ -1,0 +1,20 @@
+.v-select .dropdown-toggle {
+    padding: 0 !important
+}
+
+.v-select input[type="search"], .v-select input[type="search"]:focus {
+    margin: 0 !important
+}
+
+.v-select .selected-tag {
+    margin: 0 2px 0 !important;
+}
+
+.v-select .open-indicator::before {
+    margin-top: -5px !important
+}
+
+.form-group {
+    display: inline-block !important;
+    width: 100% !important
+}
